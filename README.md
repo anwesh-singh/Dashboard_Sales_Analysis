@@ -1,4 +1,3 @@
-# Dashboard_Sales_Analysis
 # 🛒 E-Commerce Sales Dashboard (Power BI Project)
 
 ## 📊 Overview  
@@ -25,4 +24,4 @@ It helps businesses understand key insights like **sales growth, profit trends, 
 - **Power BI** – For data modeling, visualization, and dashboard creation  
 - **Excel / CSV** – Source data for analysis  
 - **DAX Functions** – Used for calculated columns and measures  
-- **Power Query** – Data cleaning and transformation  
+- **Power Query** – Data cleaning and transformation
